@@ -23,7 +23,7 @@ A real-time hardware monitoring tool built with Python to track system performan
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/togrul-tech/System-sentinel.git](https://github.com/togrul-tech/System-sentinel.git)
+   git clone https://github.com/togrul-tech/System-sentinel.git
    cd System-sentinel
 Install Requirements:
 
