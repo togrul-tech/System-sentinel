@@ -21,4 +21,4 @@
 3.Run the Sentinel:
 
    ```bash
-   python sentinel.py
+   python main.py
