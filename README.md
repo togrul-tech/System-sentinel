@@ -27,12 +27,12 @@ A real-time hardware monitoring tool built with Python to track system performan
    cd System-sentinel
 Install Requirements:
 
-Bash
-pip install psutil gputil
+   ```bash
+   pip install psutil gputil
 Run the Program:
 
-Bash
-python src/main.py
+   ```bash
+   python src/main.py
 📄 Requirements
 Python 3.x (Tested on Python 3.14)
 
