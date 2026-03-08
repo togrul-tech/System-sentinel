@@ -21,19 +21,12 @@ A real-time hardware monitoring tool built with Python to track system performan
 
 ## 🛠️ Installation & Usage
 
-**Clone the repo:**
+**Clone the repo and instal librarys:**
    ```bash
    git clone https://github.com/togrul-tech/System-sentinel.git
    cd System-sentinel
 
-**Install**
-
-   ```bash
    pip install psutil gputil
 
-
-   ```bash
    python main.py
-
-
 
