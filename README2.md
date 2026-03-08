@@ -23,7 +23,7 @@
    Copy and paste the following commands into your terminal to clone, install dependencies, and start the application:
 
    ```bash
-   git clone [https://github.com/togrul-tech/System-sentinel.git](https://github.com/togrul-tech/System-sentinel.git)
+   git clone https://github.com/togrul-tech/System-sentinel.git
    cd System-sentinel
    pip install psutil colorama
    python main.py
