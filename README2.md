@@ -17,16 +17,13 @@
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation & Usage
 
-1. **Clone the repository:**
+**Setup and Run:**
+   Copy and paste the following commands into your terminal to clone, install dependencies, and start the application:
+
    ```bash
    git clone [https://github.com/togrul-tech/System-sentinel.git](https://github.com/togrul-tech/System-sentinel.git)
-Install dependencies:
-
-Bash
-pip install psutil colorama
-Run the Sentinel:
-
-Bash
-python main.py
+   cd System-sentinel
+   pip install psutil colorama
+   python main.py
