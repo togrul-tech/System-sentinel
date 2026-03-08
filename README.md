@@ -1,2 +1,43 @@
-# System-sentinel
-This is a program can find the information about your gpu ram and disk usage
+🛡️ Integrated Setup & Deployment Guide: System-sentinel
+Phase 1: Organizing Structure & Documentation (GitHub Codespaces)
+Instead of having a messy root directory, follow these steps inside your studious pancake environment to set everything up at once:
+
+Restructure the Files: Open your terminal and run these commands:
+
+Bash
+mkdir src
+mv main.py src/
+Update the Documentation: Open README.md and replace its content with the following professional layout:
+
+Markdown
+# 🛡️ System-sentinel
+
+A real-time hardware monitoring tool built with Python to track system performance, including GPU, RAM, and disk usage.
+
+## 🚀 Features
+* **RAM Monitoring:** Track real-time memory usage.
+* **GPU & CPU Stats:** View processor and graphics card information.
+* **Disk Usage:** Monitor available storage space.
+
+## 🛠️ Installation & Usage
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/togrul-tech/System-sentinel.git](https://github.com/togrul-tech/System-sentinel.git)
+   cd System-sentinel
+Install Requirements:
+
+Bash
+pip install psutil gputil
+Run the Program:
+
+Bash
+python src/main.py
+📄 Requirements
+Python 3.x (Tested on Python 3.14)
+
+psutil
+
+gputil
+
+Created by togrul-tech
